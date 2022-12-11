@@ -81,6 +81,7 @@ h2 {
     display: block;
     justify-content: center;
     width: 240px;
+    font-size: 14px;
     /* height: 100%; */
     background-color: rgb(51, 61, 61);
     color: rgb(230, 220, 220);
